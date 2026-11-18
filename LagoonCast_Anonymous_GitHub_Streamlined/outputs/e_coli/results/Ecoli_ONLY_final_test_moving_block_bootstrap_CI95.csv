@@ -1,7 +1,0 @@
-metric,estimate,bootstrap_CI95_lower,bootstrap_CI95_upper,block_size_observations,bootstrap_reps,description
-precision,0.6388888888888888,0.5,0.7714466546112116,4,600,approximate; not independent prospective validation
-recall,0.8679245283018868,0.7555555555555555,0.9482977790765634,4,600,approximate; not independent prospective validation
-f1,0.736,0.6229326047358834,0.8262140033879163,4,600,approximate; not independent prospective validation
-f2,0.8098591549295775,0.7013023429710867,0.8849720798092937,4,600,approximate; not independent prospective validation
-roc_auc,0.8057225793074849,0.7240277552201233,0.8750202573719013,4,600,approximate; not independent prospective validation
-average_precision,0.7173177265269678,0.5884254599844341,0.8366459627963713,4,600,approximate; not independent prospective validation

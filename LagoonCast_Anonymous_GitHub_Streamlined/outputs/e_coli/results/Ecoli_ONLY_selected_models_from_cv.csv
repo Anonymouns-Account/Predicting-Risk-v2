@@ -1,2 +1,0 @@
-bacteria,model,feature_set,window_years,adjustment,cutoff,selection_period,cv_recall,cv_precision,selection_method,prior_test_exposure
-E. coli,Extra Trees (annual refit),hybrid_rain,5,"past-12-month E. coli prevalence odds (>=28-day lag, publication unverified)",0.4745500067334312,historical OOF 2018–2023,0.5454545454545454,0.5454545454545454,"historical rank, not 2024–2026 test",2024–2026 has already been inspected in earlier studies
