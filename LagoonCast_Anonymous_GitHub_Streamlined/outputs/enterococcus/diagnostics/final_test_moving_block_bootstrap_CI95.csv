@@ -1,0 +1,9 @@
+bacteria,model,metric,ci95_low,ci95_high,valid_resamples
+Enterococcus,Extra Trees,accuracy,0.6458333333333334,0.8055555555555556,300
+Enterococcus,Extra Trees,precision,0.3363207547169811,0.6111916771752836,300
+Enterococcus,Extra Trees,recall,0.5166573971078977,0.8462357954545454,300
+Enterococcus,Extra Trees,f1,0.4259243697478991,0.6673046322489389,300
+Enterococcus,Extra Trees,f2,0.4854885057471264,0.7439487338156892,300
+Enterococcus,Extra Trees,average_precision,0.4831447070132276,0.7895720192384967,300
+Enterococcus,Extra Trees,roc_auc,0.6660873938480188,0.8493287037037037,300
+Enterococcus,Extra Trees,brier_score,0.1470147941655936,0.2092734828966138,300
