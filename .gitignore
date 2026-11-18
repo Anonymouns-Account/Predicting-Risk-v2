@@ -1,0 +1,15 @@
+# Python caches and virtual environments
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+.DS_Store
+
+# Newly reproduced runs are written here; committed verification exports
+# remain under outputs/e_coli/{results,validation,predictions,...} and
+# outputs/enterococcus/{results,diagnostics,predictions,...}.
+outputs/e_coli/reproduced_v19/
+outputs/AquaCast_*/
+outputs/LagoonCast_*/

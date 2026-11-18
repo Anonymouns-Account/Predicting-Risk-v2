@@ -1,0 +1,56 @@
+field,present,distinct_values,value,sample_rows
+site_name,True,1,"Aquatic Park-Aquatic Park, San Mateo",1890
+station_code,True,1,Aquatic Park,1890
+indicator_original,True,2,E. coli,955
+indicator_original,True,2,Enterococcus,935
+unit,True,1,MPN/100 mL,1890
+source_file,True,4,previous_datefixed_compiled,979
+source_file,True,4,Aquatic_Park_filtered_2010_2019,509
+source_file,True,4,Aquatic_Park_filtered_2010_2019;previous_datefixed_compiled,360
+source_file,True,4,UserUploaded_StateWaterBoard_2020present_2026-10-30,42
+prcp_source,True,4,USC00047339_REDWOOD_CITY,1782
+prcp_source,True,4,missing,51
+prcp_source,True,4,USC00047339,42
+prcp_source,True,4,US1CASM0006_FOSTER_CITY_FILL,15
+temp_source,True,3,USC00047339_REDWOOD_CITY,1797
+temp_source,True,3,missing,51
+temp_source,True,3,USC00047339,42
+weather_dataset,True,2,NOAA_NCEI_Daily_Summaries_GHCN_Daily,1848
+weather_dataset,True,2,NOAA_GHCN_DAILY_Redwood_2026_only_verified_web,42
+weather_primary_station,True,2,USC00047339_REDWOOD_CITY_CA_US,1848
+weather_primary_station,True,2,<missing>,42
+weather_precip_fill_station,True,2,US1CASM0006_FOSTER_CITY_1.3_SW_CA_US,1848
+weather_precip_fill_station,True,2,<missing>,42
+sample_datetime,True,708,<missing>,509
+sample_datetime,True,708,2021-09-07 09:32:00,2
+sample_datetime,True,708,2021-09-13 09:15:00,2
+sample_datetime,True,708,2021-06-01 09:20:00,2
+sample_datetime,True,708,2021-06-07 07:44:00,2
+sample_datetime,True,708,2021-06-14 09:02:00,2
+sample_datetime,True,708,2021-06-21 09:20:00,2
+sample_datetime,True,708,2021-06-28 09:20:00,2
+sample_datetime,True,708,2021-10-25 09:27:00,2
+sample_datetime,True,708,2021-08-30 09:25:00,2
+sample_datetime,True,708,2021-11-08 09:27:00,2
+sample_datetime,True,708,2022-11-14 10:20:00,2
+sample_datetime,True,708,2022-11-21 09:05:00,2
+sample_datetime,True,708,2022-11-28 09:28:00,2
+sample_datetime,True,708,2022-12-05 11:36:00,2
+sample_datetime,True,708,2022-12-12 09:27:00,2
+sample_datetime,True,708,2022-01-10 09:45:00,2
+sample_datetime,True,708,2022-01-18 09:30:00,2
+sample_datetime,True,708,2022-01-24 09:42:00,2
+sample_datetime,True,708,2021-09-20 09:35:00,2
+sample_datetime,True,708,2021-11-01 09:25:00,2
+sample_datetime,True,708,2022-04-04 09:45:00,2
+sample_datetime,True,708,2022-04-11 10:16:00,2
+sample_datetime,True,708,2022-04-18 09:50:00,2
+sample_datetime,True,708,2022-04-25 09:45:00,2
+laboratory_method,False,0,NOT PROVIDED IN DATASET,0
+method,False,0,NOT PROVIDED IN DATASET,0
+detection_limit,False,0,NOT PROVIDED IN DATASET,0
+qualifier,False,0,NOT PROVIDED IN DATASET,0
+result_qualifier,False,0,NOT PROVIDED IN DATASET,0
+censor_flag,False,0,NOT PROVIDED IN DATASET,0
+nondetect_flag,False,0,NOT PROVIDED IN DATASET,0
+report_available_at,False,0,NOT PROVIDED IN DATASET,0
